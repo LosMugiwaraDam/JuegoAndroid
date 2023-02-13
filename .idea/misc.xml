@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ProyectosAndorid/topos/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/ProyectosAndorid/topos/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Proyectos_Android/topos/app/src/main/res/drawable/confeti.xml" value="0.1" />
+        <entry key="..\:/Proyectos_Android/topos/app/src/main/res/drawable/confetiD.xml" value="0.1" />
+        <entry key="..\:/Proyectos_Android/topos/app/src/main/res/drawable/confeti_der.xml" value="0.1" />
+        <entry key="..\:/Proyectos_Android/topos/app/src/main/res/drawable/confeti_izq.xml" value="0.1" />
+        <entry key="..\:/Proyectos_Android/topos/app/src/main/res/drawable/pidgey.xml" value="0.1" />
+        <entry key="..\:/Proyectos_Android/topos/app/src/main/res/layout/activity_instrucciones.xml" value="0.322463768115942" />
+        <entry key="..\:/Proyectos_Android/topos/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Proyectos_Android/topos/app/src/main/res/layout/activity_opciones.xml" value="0.36666666666666664" />
+        <entry key="..\:/Proyectos_Android/topos/app/src/main/res/menu/menuopciones.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/jiema/OneDrive/DAM_2/Reto2/topos/app/src/main/res/drawable/pidgey.xml" value="0.1855" />
+        <entry key="..\:/Users/jiema/OneDrive/DAM_2/Reto2/topos/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/jiema/OneDrive/DAM_2/Reto2/topos/app/src/main/res/menu/menuopciones.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
